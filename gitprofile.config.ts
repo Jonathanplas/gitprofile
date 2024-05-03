@@ -44,7 +44,7 @@ const CONFIG = {
           description:
             'This project enables a user to control forward movement of a video game character by detecting passes of a magnet attached to a wheel running atop a treadmill, translating physical activity into virtual action.',
           imageURL:
-            'https://github.com/Jonathanplas/gitprofile/blob/main/View%20recent%20photos.jpeg?raw=true',
+            'https://github.com/Jonathanplas/gitprofile/blob/main/treadmill.gif?raw=true',
           link: 'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
         },
       ],
