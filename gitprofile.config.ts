@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'Dorm Room Thermostat Hack',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This dorm-room project utilizes a heating element and a thermistor to regulate room temperature. By adjusting the programmed temperature range, the system triggers the heating element when the room exceeds the desired temperature, fooling the thermostat into activating the AC until the room reaches the set temperature.',
           imageUrl:
             'https://github.com/Jonathanplas/gitprofile/blob/bd33c015684cc1f7d0ab05ae6e91504a851e70df/IMG_7129.PNG',
           link: '',
