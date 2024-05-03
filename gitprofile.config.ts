@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Dorm Room Thermostat Hack',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'Peloton Treadmill -> Videogame Input',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -178,14 +178,6 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
-
   enablePWA: true,
 };
 
