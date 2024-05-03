@@ -107,7 +107,6 @@ const CONFIG = {
       to: '2021',
     },
   ],
-  ],
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
