@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'Peloton Treadmill -> Videogame Input',
           description:
-            'This project enables a user to control a video game character's forward movement by detecting passes of a magnet attached to a wheel, translating physical activity into virtual action.',
+            'This project enables a user to control forward movement of a video game character by detecting passes of a magnet attached to a wheel running atop a treadmill, translating physical activity into virtual action.',
           videoUrl:
             'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
           link: 'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
