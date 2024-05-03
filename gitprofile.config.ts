@@ -40,12 +40,12 @@ const CONFIG = {
           link: '',
         },
         {
-          title: 'Peloton Treadmill -> Videogame Input',
+          title: 'Video Game Treadmill Input',
           description:
-            'This project enables a user to control forward movement of a video game character by detecting passes of a magnet attached to a wheel running atop a treadmill, translating physical activity into virtual action.',
-          imageURL:
+            'This project enables a user to control forward movement of a video game character by detecting passes of a magnet attached to a wheel running atop a treadmill',
+          imageUrl:
             'https://github.com/Jonathanplas/gitprofile/blob/main/treadmill.gif?raw=true',
-          link: 'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
+          link: '',
         },
       ],
     },
