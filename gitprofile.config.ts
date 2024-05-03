@@ -36,7 +36,7 @@ const CONFIG = {
           description:
             'This dorm-room project utilizes a heating element and a thermistor to regulate room temperature. By adjusting the programmed temperature range, the system triggers the heating element when the room exceeds the desired temperature, fooling the thermostat into activating the AC until the room reaches the set temperature.',
           imageUrl:
-            'https://github.com/Jonathanplas/gitprofile/blob/bd33c015684cc1f7d0ab05ae6e91504a851e70df/IMG_7129.PNG',
+            'https://github.com/Jonathanplas/gitprofile/blob/main/IMG_7129.PNG?raw=true',
           link: '',
         },
         {
@@ -44,7 +44,7 @@ const CONFIG = {
           description:
             'This project enables a user to control forward movement of a video game character by detecting passes of a magnet attached to a wheel running atop a treadmill, translating physical activity into virtual action.',
           imageURL:
-            'https://github.com/Jonathanplas/gitprofile/blob/bd33c015684cc1f7d0ab05ae6e91504a851e70df/View%20recent%20photos.jpeg',
+            'https://github.com/Jonathanplas/gitprofile/blob/main/View%20recent%20photos.jpeg?raw=true',
           link: 'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
         },
       ],
