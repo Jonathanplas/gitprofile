@@ -38,7 +38,7 @@ const CONFIG = {
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://github.com/Jonathanplas/gitprofile/blob/bd33c015684cc1f7d0ab05ae6e91504a851e70df/IMG_7129.PNG',
-          link: 'https://example.com',
+          link: '',
         },
         {
           title: 'Peloton Treadmill -> Videogame Input',
