@@ -43,10 +43,10 @@ const CONFIG = {
         {
           title: 'Peloton Treadmill -> Videogame Input',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'This project enables a user to control a video game character's forward movement by detecting passes of a magnet attached to a wheel, translating physical activity into virtual action.',
+          videoUrl:
+            'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
+          link: 'https://youtube.com/shorts/OexAGJc2tjs?feature=share',
         },
       ],
     },
