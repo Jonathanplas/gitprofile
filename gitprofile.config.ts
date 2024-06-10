@@ -95,7 +95,11 @@ const CONFIG = {
       name: 'AWS',
       body: 'Certified Cloud Practitioner',
       year: 'March 2022',
-      link: 'https://example.com',
+    },
+        {
+      name: 'Power BI',
+      body: 'Microsoft Certified: Power BI Data Analyst Associate',
+      year: 'February 2023',
     },
   ],
   educations: [
