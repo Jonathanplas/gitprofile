@@ -24,13 +24,21 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['Jonathanplas/Private_Credit_LP_Mgmt', 'arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display.
       },
     },
     external: {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        {
+          title: 'LP Management System',
+          description:
+            'A web-based application for managing and viewing Limited Partner (LP) investments across multiple funds. Built with Python/FastAPI backend and React/TypeScript frontend. Features include financial metric calculations, IRR computations, and data visualization for private equity/credit portfolios.',
+          imageUrl:
+            'https://github.com/Jonathanplas/gitprofile/blob/main/lp_management_dashboard.png?raw=true',
+          link: 'https://github.com/Jonathanplas/Private_Credit_LP_Mgmt',
+        },
         {
           title: 'Dorm Room Thermostat Hack',
           description:
