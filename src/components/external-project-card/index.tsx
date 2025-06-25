@@ -26,8 +26,8 @@ const ExternalProjectCard = ({
                   <div className="w-full">
                     <h2>
                       {skeleton({
-                        widthCls: 'w-32',
-                        heightCls: 'h-8',
+                        widthCls: 'w-200',
+                        heightCls: 'h-200',
                         className: 'mb-2 mx-auto',
                       })}
                     </h2>
