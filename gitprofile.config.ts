@@ -36,7 +36,7 @@ const CONFIG = {
           description:
             'The Clinical Psychology Internship Database is an AI-powered platform that collects, analyzes, and presents comprehensive information about psychology internship sites through an intuitive web interface, helping doctoral students efficiently search, filter, and compare training opportunities based on location, specialties, and rotation options.',
           imageUrl:
-            'https://github.com/Jonathanplas/gitprofile/blob/main/RachelAI.gif',
+            'https://github.com/Jonathanplas/clinical-psychology-internships/blob/master/RachelAI.gif',
           link: 'https://github.com/Jonathanplas/clinical-psychology-internships/tree/master',
         },
         {
