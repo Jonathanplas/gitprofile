@@ -32,6 +32,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Clinical Psychology Internships AI Data Pipeline',
+          description:
+            'The Clinical Psychology Internship Database is an AI-powered platform that collects, analyzes, and presents comprehensive information about psychology internship sites through an intuitive web interface, helping doctoral students efficiently search, filter, and compare training opportunities based on location, specialties, and rotation options.',
+          imageUrl:
+            'https://github.com/Jonathanplas/clinical-psychology-internships/blob/master/RachelAI.gif',
+          link: 'https://github.com/Jonathanplas/clinical-psychology-internships/tree/master',
+        },
+        {
           title: 'LP Management System',
           description:
             'A web-based application for managing and viewing Limited Partner (LP) investments across multiple funds. Built with Python/FastAPI backend and React/TypeScript frontend. Features include financial metric calculations, IRR computations, and data visualization for private equity/credit portfolios.',
